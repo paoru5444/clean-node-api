@@ -1,0 +1,23 @@
+{
+  "name": "clean-node-api",
+  "version": "1.0.0",
+  "description": "API em NodeJS com Clean Architecture e TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paoru5444/clean-node-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paoru5444/clean-node-api/issues"
+  },
+  "homepage": "https://github.com/paoru5444/clean-node-api#readme",
+  "devDependencies": {
+    "standard": "^16.0.3"
+  }
+}
