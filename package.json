@@ -4,7 +4,7 @@
   "description": "API em NodeJS com Clean Architecture e TDD",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,7 @@
   "homepage": "https://github.com/paoru5444/clean-node-api#readme",
   "devDependencies": {
     "husky": "^7.0.1",
+    "jest": "^27.0.6",
     "lint-staged": "^11.1.1",
     "standard": "^16.0.3"
   },
