@@ -17,6 +17,11 @@
     "url": "https://github.com/paoru5444/clean-node-api/issues"
   },
   "homepage": "https://github.com/paoru5444/clean-node-api#readme",
+  "standard": {
+    "env": [
+      "jest"
+    ]
+  },
   "devDependencies": {
     "husky": "^7.0.1",
     "jest": "^27.0.6",
